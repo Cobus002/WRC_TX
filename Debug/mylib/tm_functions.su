@@ -1,0 +1,4 @@
+tm_functions.c:11:13:tm_spi_init	32	static
+tm_functions.c:50:13:tm_spi_send_receive_multi	0	static
+tm_functions.c:57:13:tm_spi_send_multi	16	static
+tm_functions.c:63:13:tm_spi_receive_multi	0	static

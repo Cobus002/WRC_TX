@@ -56,6 +56,11 @@
 /* Includes ------------------------------------------------------------------*/
 #include "usbd_cdc.h"
 /* USER CODE BEGIN INCLUDE */
+
+ extern uint8_t usbCDCRxBuff[];
+ extern uint8_t usbCDCDataReceived;
+
+
 /* USER CODE END INCLUDE */
 
 /** @addtogroup STM32_USB_OTG_DEVICE_LIBRARY
